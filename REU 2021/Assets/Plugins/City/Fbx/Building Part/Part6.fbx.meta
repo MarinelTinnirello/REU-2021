@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 1a09064f1d6f8974b94dd30720c20cc7
+timeCreated: 1522521645
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _B064
+    100002: _polySurface587
+    100004: Add
+    100006: part5_Building1
+    100008: part5_Building2
+    100010: part5_wall
+    100012: //RootNode
+    100014: part6_Building1
+    100016: part6_Building1 1
+    100018: part6_Building2
+    100020: part6_Building2 1
+    100022: part6_Building2 2
+    100024: part6_Building2 3
+    100026: part6_GlassBuilding1
+    100028: part6_GlassBuilding1 1
+    100030: part6_road
+    100032: part6_road 1
+    100034: part6_road 2
+    100036: part6_road 3
+    100038: part6_road 4
+    100040: part6_road 5
+    100042: part6_road 6
+    100044: part6_road 7
+    100046: part6_shop
+    100048: part6_shop 1
+    100050: part6_shop 2
+    100052: part6_shop 3
+    100054: part6_shop 4
+    100056: part6_shop 5
+    100058: part6_shop 6
+    100060: part6_UrbanAtlas1
+    100062: part6_UrbanAtlas1 1
+    100064: part6_UrbanAtlas1 10
+    100066: part6_UrbanAtlas1 11
+    100068: part6_UrbanAtlas1 12
+    100070: part6_UrbanAtlas1 13
+    100072: part6_UrbanAtlas1 14
+    100074: part6_UrbanAtlas1 15
+    100076: part6_UrbanAtlas1 16
+    100078: part6_UrbanAtlas1 17
+    100080: part6_UrbanAtlas1 18
+    100082: part6_UrbanAtlas1 19
+    100084: part6_UrbanAtlas1 2
+    100086: part6_UrbanAtlas1 3
+    100088: part6_UrbanAtlas1 4
+    100090: part6_UrbanAtlas1 5
+    100092: part6_UrbanAtlas1 6
+    100094: part6_UrbanAtlas1 7
+    100096: part6_UrbanAtlas1 8
+    100098: part6_UrbanAtlas1 9
+    100100: part6_UrbanAtlas2
+    100102: part6_wall
+    100104: polySurface837
+    100106: polySurface838
+    100108: polySurface839
+    100110: polySurface840
+    100112: polySurface841
+    100114: Road4
+    100116: tile
+    400000: _B064
+    400002: _polySurface587
+    400004: Add
+    400006: part5_Building1
+    400008: part5_Building2
+    400010: part5_wall
+    400012: //RootNode
+    400014: part6_Building1
+    400016: part6_Building1 1
+    400018: part6_Building2
+    400020: part6_Building2 1
+    400022: part6_Building2 2
+    400024: part6_Building2 3
+    400026: part6_GlassBuilding1
+    400028: part6_GlassBuilding1 1
+    400030: part6_road
+    400032: part6_road 1
+    400034: part6_road 2
+    400036: part6_road 3
+    400038: part6_road 4
+    400040: part6_road 5
+    400042: part6_road 6
+    400044: part6_road 7
+    400046: part6_shop
+    400048: part6_shop 1
+    400050: part6_shop 2
+    400052: part6_shop 3
+    400054: part6_shop 4
+    400056: part6_shop 5
+    400058: part6_shop 6
+    400060: part6_UrbanAtlas1
+    400062: part6_UrbanAtlas1 1
+    400064: part6_UrbanAtlas1 10
+    400066: part6_UrbanAtlas1 11
+    400068: part6_UrbanAtlas1 12
+    400070: part6_UrbanAtlas1 13
+    400072: part6_UrbanAtlas1 14
+    400074: part6_UrbanAtlas1 15
+    400076: part6_UrbanAtlas1 16
+    400078: part6_UrbanAtlas1 17
+    400080: part6_UrbanAtlas1 18
+    400082: part6_UrbanAtlas1 19
+    400084: part6_UrbanAtlas1 2
+    400086: part6_UrbanAtlas1 3
+    400088: part6_UrbanAtlas1 4
+    400090: part6_UrbanAtlas1 5
+    400092: part6_UrbanAtlas1 6
+    400094: part6_UrbanAtlas1 7
+    400096: part6_UrbanAtlas1 8
+    400098: part6_UrbanAtlas1 9
+    400100: part6_UrbanAtlas2
+    400102: part6_wall
+    400104: polySurface837
+    400106: polySurface838
+    400108: polySurface839
+    400110: polySurface840
+    400112: polySurface841
+    400114: Road4
+    400116: tile
+    2300000: _B064
+    2300002: _polySurface587
+    2300004: Add
+    2300006: part5_Building1
+    2300008: part5_Building2
+    2300010: part5_wall
+    2300012: part6_Building1
+    2300014: part6_Building1 1
+    2300016: part6_Building2
+    2300018: part6_Building2 1
+    2300020: part6_Building2 2
+    2300022: part6_Building2 3
+    2300024: part6_GlassBuilding1
+    2300026: part6_GlassBuilding1 1
+    2300028: part6_road
+    2300030: part6_road 1
+    2300032: part6_road 2
+    2300034: part6_road 3
+    2300036: part6_road 4
+    2300038: part6_road 5
+    2300040: part6_road 6
+    2300042: part6_road 7
+    2300044: part6_shop
+    2300046: part6_shop 1
+    2300048: part6_shop 2
+    2300050: part6_shop 3
+    2300052: part6_shop 4
+    2300054: part6_shop 5
+    2300056: part6_shop 6
+    2300058: part6_UrbanAtlas1
+    2300060: part6_UrbanAtlas1 1
+    2300062: part6_UrbanAtlas1 10
+    2300064: part6_UrbanAtlas1 11
+    2300066: part6_UrbanAtlas1 12
+    2300068: part6_UrbanAtlas1 13
+    2300070: part6_UrbanAtlas1 14
+    2300072: part6_UrbanAtlas1 15
+    2300074: part6_UrbanAtlas1 16
+    2300076: part6_UrbanAtlas1 17
+    2300078: part6_UrbanAtlas1 18
+    2300080: part6_UrbanAtlas1 19
+    2300082: part6_UrbanAtlas1 2
+    2300084: part6_UrbanAtlas1 3
+    2300086: part6_UrbanAtlas1 4
+    2300088: part6_UrbanAtlas1 5
+    2300090: part6_UrbanAtlas1 6
+    2300092: part6_UrbanAtlas1 7
+    2300094: part6_UrbanAtlas1 8
+    2300096: part6_UrbanAtlas1 9
+    2300098: part6_UrbanAtlas2
+    2300100: part6_wall
+    2300102: polySurface837
+    2300104: polySurface838
+    2300106: polySurface839
+    2300108: polySurface840
+    2300110: polySurface841
+    2300112: Road4
+    2300114: tile
+    3300000: _B064
+    3300002: _polySurface587
+    3300004: Add
+    3300006: part5_Building1
+    3300008: part5_Building2
+    3300010: part5_wall
+    3300012: part6_Building1
+    3300014: part6_Building1 1
+    3300016: part6_Building2
+    3300018: part6_Building2 1
+    3300020: part6_Building2 2
+    3300022: part6_Building2 3
+    3300024: part6_GlassBuilding1
+    3300026: part6_GlassBuilding1 1
+    3300028: part6_road
+    3300030: part6_road 1
+    3300032: part6_road 2
+    3300034: part6_road 3
+    3300036: part6_road 4
+    3300038: part6_road 5
+    3300040: part6_road 6
+    3300042: part6_road 7
+    3300044: part6_shop
+    3300046: part6_shop 1
+    3300048: part6_shop 2
+    3300050: part6_shop 3
+    3300052: part6_shop 4
+    3300054: part6_shop 5
+    3300056: part6_shop 6
+    3300058: part6_UrbanAtlas1
+    3300060: part6_UrbanAtlas1 1
+    3300062: part6_UrbanAtlas1 10
+    3300064: part6_UrbanAtlas1 11
+    3300066: part6_UrbanAtlas1 12
+    3300068: part6_UrbanAtlas1 13
+    3300070: part6_UrbanAtlas1 14
+    3300072: part6_UrbanAtlas1 15
+    3300074: part6_UrbanAtlas1 16
+    3300076: part6_UrbanAtlas1 17
+    3300078: part6_UrbanAtlas1 18
+    3300080: part6_UrbanAtlas1 19
+    3300082: part6_UrbanAtlas1 2
+    3300084: part6_UrbanAtlas1 3
+    3300086: part6_UrbanAtlas1 4
+    3300088: part6_UrbanAtlas1 5
+    3300090: part6_UrbanAtlas1 6
+    3300092: part6_UrbanAtlas1 7
+    3300094: part6_UrbanAtlas1 8
+    3300096: part6_UrbanAtlas1 9
+    3300098: part6_UrbanAtlas2
+    3300100: part6_wall
+    3300102: polySurface837
+    3300104: polySurface838
+    3300106: polySurface839
+    3300108: polySurface840
+    3300110: polySurface841
+    3300112: Road4
+    3300114: tile
+    4300000: part6_road
+    4300002: part6_road
+    4300004: part6_road
+    4300006: part6_road
+    4300008: part6_road
+    4300010: part6_road
+    4300012: part6_Building2
+    4300014: part6_GlassBuilding1
+    4300016: part6_GlassBuilding1
+    4300018: part6_Building2
+    4300020: part6_wall
+    4300022: part6_Building2
+    4300024: part6_shop
+    4300026: part5_Building1
+    4300028: part6_road
+    4300030: part6_road
+    4300032: part6_UrbanAtlas2
+    4300034: part6_UrbanAtlas1
+    4300036: part6_UrbanAtlas1
+    4300038: part6_UrbanAtlas1
+    4300040: part6_UrbanAtlas1
+    4300042: part6_UrbanAtlas1
+    4300044: part6_UrbanAtlas1
+    4300046: part6_UrbanAtlas1
+    4300048: part6_UrbanAtlas1
+    4300050: part6_UrbanAtlas1
+    4300052: part6_UrbanAtlas1
+    4300054: part6_UrbanAtlas1
+    4300056: part6_UrbanAtlas1
+    4300058: part6_UrbanAtlas1
+    4300060: part6_UrbanAtlas1
+    4300062: part6_UrbanAtlas1
+    4300064: part6_UrbanAtlas1
+    4300066: part6_UrbanAtlas1
+    4300068: part5_wall
+    4300070: part5_Building2
+    4300072: part6_UrbanAtlas1
+    4300074: part6_UrbanAtlas1
+    4300076: part6_UrbanAtlas1
+    4300078: part6_shop
+    4300080: part6_Building1
+    4300082: part6_shop
+    4300084: part6_shop
+    4300086: part6_shop
+    4300088: part6_shop
+    4300090: part6_Building2
+    4300092: part6_Building1
+    4300094: part6_shop
+    4300096: _B064
+    4300098: _polySurface587
+    4300100: polySurface839
+    4300102: polySurface840
+    4300104: polySurface841
+    4300106: polySurface838
+    4300108: Add
+    4300110: polySurface837
+    4300112: Road4
+    4300114: tile
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

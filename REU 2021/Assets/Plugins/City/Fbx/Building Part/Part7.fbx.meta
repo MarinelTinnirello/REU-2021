@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: fb210ff7bb18f4b419e135bdce06b764
+timeCreated: 1522521646
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _B076
+    100002: _polySurface581
+    100004: Add
+    100006: //RootNode
+    100008: part7_blue_ASC032shade
+    100010: part7_blue_ASC032shade 1
+    100012: part7_Building1
+    100014: part7_Building1 1
+    100016: part7_Building1 2
+    100018: part7_Building1 3
+    100020: part7_Building1 4
+    100022: part7_Building1 5
+    100024: part7_Building2
+    100026: part7_Building2 1
+    100028: part7_Building2 10
+    100030: part7_Building2 2
+    100032: part7_Building2 3
+    100034: part7_Building2 4
+    100036: part7_Building2 5
+    100038: part7_Building2 6
+    100040: part7_Building2 7
+    100042: part7_Building2 8
+    100044: part7_Building2 9
+    100046: part7_Building3
+    100048: part7_Building3 1
+    100050: part7_glass
+    100052: part7_GlassBuilding1
+    100054: part7_GlassBuilding1 1
+    100056: part7_GlassBuilding1 10
+    100058: part7_GlassBuilding1 11
+    100060: part7_GlassBuilding1 12
+    100062: part7_GlassBuilding1 13
+    100064: part7_GlassBuilding1 2
+    100066: part7_GlassBuilding1 3
+    100068: part7_GlassBuilding1 4
+    100070: part7_GlassBuilding1 5
+    100072: part7_GlassBuilding1 6
+    100074: part7_GlassBuilding1 7
+    100076: part7_GlassBuilding1 8
+    100078: part7_GlassBuilding1 9
+    100080: part7_red_ASC032shade
+    100082: part7_red_ASC032shade 1
+    100084: part7_red_ASC032shade 2
+    100086: part7_red_ASC032shade001
+    100088: part7_road
+    100090: part7_road 1
+    100092: part7_road 10
+    100094: part7_road 11
+    100096: part7_road 12
+    100098: part7_road 13
+    100100: part7_road 14
+    100102: part7_road 15
+    100104: part7_road 16
+    100106: part7_road 2
+    100108: part7_road 3
+    100110: part7_road 4
+    100112: part7_road 5
+    100114: part7_road 6
+    100116: part7_road 7
+    100118: part7_road 8
+    100120: part7_road 9
+    100122: part7_road1
+    100124: part7_shop
+    100126: part7_shop 1
+    100128: part7_shop 2
+    100130: part7_shop 3
+    100132: part7_shop 4
+    100134: part7_shop 5
+    100136: part7_shop 6
+    100138: part7_shop 7
+    100140: part7_shop 8
+    100142: part7_shop 9
+    100144: part7_UrbanAtlas002
+    100146: part7_UrbanAtlas1
+    100148: part7_UrbanAtlas1 1
+    100150: part7_UrbanAtlas1 10
+    100152: part7_UrbanAtlas1 11
+    100154: part7_UrbanAtlas1 12
+    100156: part7_UrbanAtlas1 13
+    100158: part7_UrbanAtlas1 14
+    100160: part7_UrbanAtlas1 15
+    100162: part7_UrbanAtlas1 16
+    100164: part7_UrbanAtlas1 17
+    100166: part7_UrbanAtlas1 18
+    100168: part7_UrbanAtlas1 2
+    100170: part7_UrbanAtlas1 3
+    100172: part7_UrbanAtlas1 4
+    100174: part7_UrbanAtlas1 5
+    100176: part7_UrbanAtlas1 6
+    100178: part7_UrbanAtlas1 7
+    100180: part7_UrbanAtlas1 8
+    100182: part7_UrbanAtlas1 9
+    100184: part7_wall
+    100186: polySurface836
+    100188: Road5
+    400000: _B076
+    400002: _polySurface581
+    400004: Add
+    400006: //RootNode
+    400008: part7_blue_ASC032shade
+    400010: part7_blue_ASC032shade 1
+    400012: part7_Building1
+    400014: part7_Building1 1
+    400016: part7_Building1 2
+    400018: part7_Building1 3
+    400020: part7_Building1 4
+    400022: part7_Building1 5
+    400024: part7_Building2
+    400026: part7_Building2 1
+    400028: part7_Building2 10
+    400030: part7_Building2 2
+    400032: part7_Building2 3
+    400034: part7_Building2 4
+    400036: part7_Building2 5
+    400038: part7_Building2 6
+    400040: part7_Building2 7
+    400042: part7_Building2 8
+    400044: part7_Building2 9
+    400046: part7_Building3
+    400048: part7_Building3 1
+    400050: part7_glass
+    400052: part7_GlassBuilding1
+    400054: part7_GlassBuilding1 1
+    400056: part7_GlassBuilding1 10
+    400058: part7_GlassBuilding1 11
+    400060: part7_GlassBuilding1 12
+    400062: part7_GlassBuilding1 13
+    400064: part7_GlassBuilding1 2
+    400066: part7_GlassBuilding1 3
+    400068: part7_GlassBuilding1 4
+    400070: part7_GlassBuilding1 5
+    400072: part7_GlassBuilding1 6
+    400074: part7_GlassBuilding1 7
+    400076: part7_GlassBuilding1 8
+    400078: part7_GlassBuilding1 9
+    400080: part7_red_ASC032shade
+    400082: part7_red_ASC032shade 1
+    400084: part7_red_ASC032shade 2
+    400086: part7_red_ASC032shade001
+    400088: part7_road
+    400090: part7_road 1
+    400092: part7_road 10
+    400094: part7_road 11
+    400096: part7_road 12
+    400098: part7_road 13
+    400100: part7_road 14
+    400102: part7_road 15
+    400104: part7_road 16
+    400106: part7_road 2
+    400108: part7_road 3
+    400110: part7_road 4
+    400112: part7_road 5
+    400114: part7_road 6
+    400116: part7_road 7
+    400118: part7_road 8
+    400120: part7_road 9
+    400122: part7_road1
+    400124: part7_shop
+    400126: part7_shop 1
+    400128: part7_shop 2
+    400130: part7_shop 3
+    400132: part7_shop 4
+    400134: part7_shop 5
+    400136: part7_shop 6
+    400138: part7_shop 7
+    400140: part7_shop 8
+    400142: part7_shop 9
+    400144: part7_UrbanAtlas002
+    400146: part7_UrbanAtlas1
+    400148: part7_UrbanAtlas1 1
+    400150: part7_UrbanAtlas1 10
+    400152: part7_UrbanAtlas1 11
+    400154: part7_UrbanAtlas1 12
+    400156: part7_UrbanAtlas1 13
+    400158: part7_UrbanAtlas1 14
+    400160: part7_UrbanAtlas1 15
+    400162: part7_UrbanAtlas1 16
+    400164: part7_UrbanAtlas1 17
+    400166: part7_UrbanAtlas1 18
+    400168: part7_UrbanAtlas1 2
+    400170: part7_UrbanAtlas1 3
+    400172: part7_UrbanAtlas1 4
+    400174: part7_UrbanAtlas1 5
+    400176: part7_UrbanAtlas1 6
+    400178: part7_UrbanAtlas1 7
+    400180: part7_UrbanAtlas1 8
+    400182: part7_UrbanAtlas1 9
+    400184: part7_wall
+    400186: polySurface836
+    400188: Road5
+    2300000: _B076
+    2300002: _polySurface581
+    2300004: Add
+    2300006: part7_blue_ASC032shade
+    2300008: part7_blue_ASC032shade 1
+    2300010: part7_Building1
+    2300012: part7_Building1 1
+    2300014: part7_Building1 2
+    2300016: part7_Building1 3
+    2300018: part7_Building1 4
+    2300020: part7_Building1 5
+    2300022: part7_Building2
+    2300024: part7_Building2 1
+    2300026: part7_Building2 10
+    2300028: part7_Building2 2
+    2300030: part7_Building2 3
+    2300032: part7_Building2 4
+    2300034: part7_Building2 5
+    2300036: part7_Building2 6
+    2300038: part7_Building2 7
+    2300040: part7_Building2 8
+    2300042: part7_Building2 9
+    2300044: part7_Building3
+    2300046: part7_Building3 1
+    2300048: part7_glass
+    2300050: part7_GlassBuilding1
+    2300052: part7_GlassBuilding1 1
+    2300054: part7_GlassBuilding1 10
+    2300056: part7_GlassBuilding1 11
+    2300058: part7_GlassBuilding1 12
+    2300060: part7_GlassBuilding1 13
+    2300062: part7_GlassBuilding1 2
+    2300064: part7_GlassBuilding1 3
+    2300066: part7_GlassBuilding1 4
+    2300068: part7_GlassBuilding1 5
+    2300070: part7_GlassBuilding1 6
+    2300072: part7_GlassBuilding1 7
+    2300074: part7_GlassBuilding1 8
+    2300076: part7_GlassBuilding1 9
+    2300078: part7_red_ASC032shade
+    2300080: part7_red_ASC032shade 1
+    2300082: part7_red_ASC032shade 2
+    2300084: part7_red_ASC032shade001
+    2300086: part7_road
+    2300088: part7_road 1
+    2300090: part7_road 10
+    2300092: part7_road 11
+    2300094: part7_road 12
+    2300096: part7_road 13
+    2300098: part7_road 14
+    2300100: part7_road 15
+    2300102: part7_road 16
+    2300104: part7_road 2
+    2300106: part7_road 3
+    2300108: part7_road 4
+    2300110: part7_road 5
+    2300112: part7_road 6
+    2300114: part7_road 7
+    2300116: part7_road 8
+    2300118: part7_road 9
+    2300120: part7_road1
+    2300122: part7_shop
+    2300124: part7_shop 1
+    2300126: part7_shop 2
+    2300128: part7_shop 3
+    2300130: part7_shop 4
+    2300132: part7_shop 5
+    2300134: part7_shop 6
+    2300136: part7_shop 7
+    2300138: part7_shop 8
+    2300140: part7_shop 9
+    2300142: part7_UrbanAtlas002
+    2300144: part7_UrbanAtlas1
+    2300146: part7_UrbanAtlas1 1
+    2300148: part7_UrbanAtlas1 10
+    2300150: part7_UrbanAtlas1 11
+    2300152: part7_UrbanAtlas1 12
+    2300154: part7_UrbanAtlas1 13
+    2300156: part7_UrbanAtlas1 14
+    2300158: part7_UrbanAtlas1 15
+    2300160: part7_UrbanAtlas1 16
+    2300162: part7_UrbanAtlas1 17
+    2300164: part7_UrbanAtlas1 18
+    2300166: part7_UrbanAtlas1 2
+    2300168: part7_UrbanAtlas1 3
+    2300170: part7_UrbanAtlas1 4
+    2300172: part7_UrbanAtlas1 5
+    2300174: part7_UrbanAtlas1 6
+    2300176: part7_UrbanAtlas1 7
+    2300178: part7_UrbanAtlas1 8
+    2300180: part7_UrbanAtlas1 9
+    2300182: part7_wall
+    2300184: polySurface836
+    2300186: Road5
+    3300000: _B076
+    3300002: _polySurface581
+    3300004: Add
+    3300006: part7_blue_ASC032shade
+    3300008: part7_blue_ASC032shade 1
+    3300010: part7_Building1
+    3300012: part7_Building1 1
+    3300014: part7_Building1 2
+    3300016: part7_Building1 3
+    3300018: part7_Building1 4
+    3300020: part7_Building1 5
+    3300022: part7_Building2
+    3300024: part7_Building2 1
+    3300026: part7_Building2 10
+    3300028: part7_Building2 2
+    3300030: part7_Building2 3
+    3300032: part7_Building2 4
+    3300034: part7_Building2 5
+    3300036: part7_Building2 6
+    3300038: part7_Building2 7
+    3300040: part7_Building2 8
+    3300042: part7_Building2 9
+    3300044: part7_Building3
+    3300046: part7_Building3 1
+    3300048: part7_glass
+    3300050: part7_GlassBuilding1
+    3300052: part7_GlassBuilding1 1
+    3300054: part7_GlassBuilding1 10
+    3300056: part7_GlassBuilding1 11
+    3300058: part7_GlassBuilding1 12
+    3300060: part7_GlassBuilding1 13
+    3300062: part7_GlassBuilding1 2
+    3300064: part7_GlassBuilding1 3
+    3300066: part7_GlassBuilding1 4
+    3300068: part7_GlassBuilding1 5
+    3300070: part7_GlassBuilding1 6
+    3300072: part7_GlassBuilding1 7
+    3300074: part7_GlassBuilding1 8
+    3300076: part7_GlassBuilding1 9
+    3300078: part7_red_ASC032shade
+    3300080: part7_red_ASC032shade 1
+    3300082: part7_red_ASC032shade 2
+    3300084: part7_red_ASC032shade001
+    3300086: part7_road
+    3300088: part7_road 1
+    3300090: part7_road 10
+    3300092: part7_road 11
+    3300094: part7_road 12
+    3300096: part7_road 13
+    3300098: part7_road 14
+    3300100: part7_road 15
+    3300102: part7_road 16
+    3300104: part7_road 2
+    3300106: part7_road 3
+    3300108: part7_road 4
+    3300110: part7_road 5
+    3300112: part7_road 6
+    3300114: part7_road 7
+    3300116: part7_road 8
+    3300118: part7_road 9
+    3300120: part7_road1
+    3300122: part7_shop
+    3300124: part7_shop 1
+    3300126: part7_shop 2
+    3300128: part7_shop 3
+    3300130: part7_shop 4
+    3300132: part7_shop 5
+    3300134: part7_shop 6
+    3300136: part7_shop 7
+    3300138: part7_shop 8
+    3300140: part7_shop 9
+    3300142: part7_UrbanAtlas002
+    3300144: part7_UrbanAtlas1
+    3300146: part7_UrbanAtlas1 1
+    3300148: part7_UrbanAtlas1 10
+    3300150: part7_UrbanAtlas1 11
+    3300152: part7_UrbanAtlas1 12
+    3300154: part7_UrbanAtlas1 13
+    3300156: part7_UrbanAtlas1 14
+    3300158: part7_UrbanAtlas1 15
+    3300160: part7_UrbanAtlas1 16
+    3300162: part7_UrbanAtlas1 17
+    3300164: part7_UrbanAtlas1 18
+    3300166: part7_UrbanAtlas1 2
+    3300168: part7_UrbanAtlas1 3
+    3300170: part7_UrbanAtlas1 4
+    3300172: part7_UrbanAtlas1 5
+    3300174: part7_UrbanAtlas1 6
+    3300176: part7_UrbanAtlas1 7
+    3300178: part7_UrbanAtlas1 8
+    3300180: part7_UrbanAtlas1 9
+    3300182: part7_wall
+    3300184: polySurface836
+    3300186: Road5
+    4300000: part7_red_ASC032shade001
+    4300002: part7_red_ASC032shade
+    4300004: part7_red_ASC032shade
+    4300006: part7_red_ASC032shade
+    4300008: part7_UrbanAtlas002
+    4300010: part7_shop
+    4300012: part7_Building2
+    4300014: part7_wall
+    4300016: part7_shop
+    4300018: part7_shop
+    4300020: part7_shop
+    4300022: part7_Building1
+    4300024: part7_shop
+    4300026: part7_Building2
+    4300028: part7_Building1
+    4300030: part7_GlassBuilding1
+    4300032: part7_glass
+    4300034: part7_shop
+    4300036: part7_Building1
+    4300038: part7_Building1
+    4300040: part7_shop
+    4300042: part7_shop
+    4300044: part7_UrbanAtlas1
+    4300046: part7_UrbanAtlas1
+    4300048: part7_UrbanAtlas1
+    4300050: part7_UrbanAtlas1
+    4300052: part7_UrbanAtlas1
+    4300054: part7_UrbanAtlas1
+    4300056: part7_UrbanAtlas1
+    4300058: part7_UrbanAtlas1
+    4300060: part7_UrbanAtlas1
+    4300062: part7_UrbanAtlas1
+    4300064: part7_UrbanAtlas1
+    4300066: part7_UrbanAtlas1
+    4300068: part7_UrbanAtlas1
+    4300070: part7_UrbanAtlas1
+    4300072: part7_UrbanAtlas1
+    4300074: part7_road1
+    4300076: part7_road
+    4300078: part7_road
+    4300080: part7_road
+    4300082: part7_road
+    4300084: part7_road
+    4300086: part7_road
+    4300088: part7_road
+    4300090: part7_road
+    4300092: part7_UrbanAtlas1
+    4300094: part7_UrbanAtlas1
+    4300096: part7_UrbanAtlas1
+    4300098: part7_UrbanAtlas1
+    4300100: part7_Building2
+    4300102: part7_GlassBuilding1
+    4300104: part7_GlassBuilding1
+    4300106: part7_GlassBuilding1
+    4300108: part7_Building2
+    4300110: part7_Building2
+    4300112: part7_Building2
+    4300114: part7_Building2
+    4300116: part7_Building2
+    4300118: part7_blue_ASC032shade
+    4300120: part7_GlassBuilding1
+    4300122: part7_GlassBuilding1
+    4300124: part7_GlassBuilding1
+    4300126: part7_GlassBuilding1
+    4300128: part7_Building3
+    4300130: part7_Building3
+    4300132: part7_Building1
+    4300134: part7_Building1
+    4300136: part7_shop
+    4300138: part7_GlassBuilding1
+    4300140: part7_shop
+    4300142: part7_GlassBuilding1
+    4300144: part7_GlassBuilding1
+    4300146: part7_Building2
+    4300148: part7_GlassBuilding1
+    4300150: part7_GlassBuilding1
+    4300152: part7_Building2
+    4300154: part7_Building2
+    4300156: part7_blue_ASC032shade
+    4300158: part7_road
+    4300160: part7_road
+    4300162: part7_road
+    4300164: part7_road
+    4300166: part7_road
+    4300168: part7_road
+    4300170: part7_road
+    4300172: part7_road
+    4300174: part7_road
+    4300176: _B076
+    4300178: _polySurface581
+    4300180: polySurface836
+    4300182: part7_GlassBuilding1
+    4300184: Add
+    4300186: Road5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

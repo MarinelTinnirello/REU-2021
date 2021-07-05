@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: c565bb5674ed5444bbe3ef9415e5de02
+timeCreated: 1522521645
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _B022
+    100002: B192
+    100004: //RootNode
+    100006: part2_apple
+    100008: part2_apple1
+    100010: part2_apple2
+    100012: part2_apple3
+    100014: part2_apple4
+    100016: part2_apple5
+    100018: part2_apple_
+    100020: part2_AUDI
+    100022: part2_AUDI1
+    100024: part2_AUDI2
+    100026: part2_AUDI3
+    100028: part2_AUDI_
+    100030: part2_AUDI_1
+    100032: part2_AUDI_2
+    100034: part2_blue
+    100036: part2_blue1
+    100038: part2_blue_ASC032shade
+    100040: part2_blue_ASC032shade 1
+    100042: part2_Building1
+    100044: part2_Building1 1
+    100046: part2_Building1 2
+    100048: part2_Building2
+    100050: part2_building2
+    100052: part2_Building2 1
+    100054: part2_Building2 10
+    100056: part2_Building2 11
+    100058: part2_Building2 2
+    100060: part2_Building2 3
+    100062: part2_Building2 4
+    100064: part2_Building2 5
+    100066: part2_Building2 6
+    100068: part2_Building2 7
+    100070: part2_Building2 8
+    100072: part2_Building2 9
+    100074: part2_costco
+    100076: part2_costco1
+    100078: part2_costco_
+    100080: part2_costco_1
+    100082: part2_diar
+    100084: part2_diar1
+    100086: part2_gap
+    100088: part2_gap1
+    100090: part2_gap2
+    100092: part2_gap3
+    100094: part2_gap4
+    100096: part2_gap5
+    100098: part2_gap6
+    100100: part2_gap7
+    100102: part2_gap8
+    100104: part2_GlassBuilding1
+    100106: part2_GlassBuilding1 1
+    100108: part2_GlassBuilding1 2
+    100110: part2_porsche
+    100112: part2_porsche_
+    100114: part2_porsche_ 1
+    100116: part2_road
+    100118: part2_road 1
+    100120: part2_road 2
+    100122: part2_road 3
+    100124: part2_road 4
+    100126: part2_road 5
+    100128: part2_road 6
+    100130: part2_road 7
+    100132: part2_road 8
+    100134: part2_road 9
+    100136: part2_rolex
+    100138: part2_rolex_
+    100140: part2_rolex_1
+    100142: part2_shop
+    100144: part2_shop 1
+    100146: part2_shop 2
+    100148: part2_shop 3
+    100150: part2_UrbanAtlas1
+    100152: part2_UrbanAtlas1 1
+    100154: part2_UrbanAtlas1 2
+    100156: part2_UrbanAtlas1 3
+    100158: part2_UrbanAtlas1 4
+    100160: part2_UrbanAtlas1 5
+    100162: polySurface843
+    100164: Add
+    100166: Road2
+    400000: _B022
+    400002: B192
+    400004: //RootNode
+    400006: part2_apple
+    400008: part2_apple1
+    400010: part2_apple2
+    400012: part2_apple3
+    400014: part2_apple4
+    400016: part2_apple5
+    400018: part2_apple_
+    400020: part2_AUDI
+    400022: part2_AUDI1
+    400024: part2_AUDI2
+    400026: part2_AUDI3
+    400028: part2_AUDI_
+    400030: part2_AUDI_1
+    400032: part2_AUDI_2
+    400034: part2_blue
+    400036: part2_blue1
+    400038: part2_blue_ASC032shade
+    400040: part2_blue_ASC032shade 1
+    400042: part2_Building1
+    400044: part2_Building1 1
+    400046: part2_Building1 2
+    400048: part2_Building2
+    400050: part2_building2
+    400052: part2_Building2 1
+    400054: part2_Building2 10
+    400056: part2_Building2 11
+    400058: part2_Building2 2
+    400060: part2_Building2 3
+    400062: part2_Building2 4
+    400064: part2_Building2 5
+    400066: part2_Building2 6
+    400068: part2_Building2 7
+    400070: part2_Building2 8
+    400072: part2_Building2 9
+    400074: part2_costco
+    400076: part2_costco1
+    400078: part2_costco_
+    400080: part2_costco_1
+    400082: part2_diar
+    400084: part2_diar1
+    400086: part2_gap
+    400088: part2_gap1
+    400090: part2_gap2
+    400092: part2_gap3
+    400094: part2_gap4
+    400096: part2_gap5
+    400098: part2_gap6
+    400100: part2_gap7
+    400102: part2_gap8
+    400104: part2_GlassBuilding1
+    400106: part2_GlassBuilding1 1
+    400108: part2_GlassBuilding1 2
+    400110: part2_porsche
+    400112: part2_porsche_
+    400114: part2_porsche_ 1
+    400116: part2_road
+    400118: part2_road 1
+    400120: part2_road 2
+    400122: part2_road 3
+    400124: part2_road 4
+    400126: part2_road 5
+    400128: part2_road 6
+    400130: part2_road 7
+    400132: part2_road 8
+    400134: part2_road 9
+    400136: part2_rolex
+    400138: part2_rolex_
+    400140: part2_rolex_1
+    400142: part2_shop
+    400144: part2_shop 1
+    400146: part2_shop 2
+    400148: part2_shop 3
+    400150: part2_UrbanAtlas1
+    400152: part2_UrbanAtlas1 1
+    400154: part2_UrbanAtlas1 2
+    400156: part2_UrbanAtlas1 3
+    400158: part2_UrbanAtlas1 4
+    400160: part2_UrbanAtlas1 5
+    400162: polySurface843
+    400164: Add
+    400166: Road2
+    2300000: _B022
+    2300002: B192
+    2300004: part2_apple
+    2300006: part2_apple1
+    2300008: part2_apple2
+    2300010: part2_apple3
+    2300012: part2_apple4
+    2300014: part2_apple5
+    2300016: part2_apple_
+    2300018: part2_AUDI
+    2300020: part2_AUDI1
+    2300022: part2_AUDI2
+    2300024: part2_AUDI3
+    2300026: part2_AUDI_
+    2300028: part2_AUDI_1
+    2300030: part2_AUDI_2
+    2300032: part2_blue
+    2300034: part2_blue1
+    2300036: part2_blue_ASC032shade
+    2300038: part2_blue_ASC032shade 1
+    2300040: part2_Building1
+    2300042: part2_Building1 1
+    2300044: part2_Building1 2
+    2300046: part2_Building2
+    2300048: part2_building2
+    2300050: part2_Building2 1
+    2300052: part2_Building2 10
+    2300054: part2_Building2 11
+    2300056: part2_Building2 2
+    2300058: part2_Building2 3
+    2300060: part2_Building2 4
+    2300062: part2_Building2 5
+    2300064: part2_Building2 6
+    2300066: part2_Building2 7
+    2300068: part2_Building2 8
+    2300070: part2_Building2 9
+    2300072: part2_costco
+    2300074: part2_costco1
+    2300076: part2_costco_
+    2300078: part2_costco_1
+    2300080: part2_diar
+    2300082: part2_diar1
+    2300084: part2_gap
+    2300086: part2_gap1
+    2300088: part2_gap2
+    2300090: part2_gap3
+    2300092: part2_gap4
+    2300094: part2_gap5
+    2300096: part2_gap6
+    2300098: part2_gap7
+    2300100: part2_gap8
+    2300102: part2_GlassBuilding1
+    2300104: part2_GlassBuilding1 1
+    2300106: part2_GlassBuilding1 2
+    2300108: part2_porsche
+    2300110: part2_porsche_
+    2300112: part2_porsche_ 1
+    2300114: part2_road
+    2300116: part2_road 1
+    2300118: part2_road 2
+    2300120: part2_road 3
+    2300122: part2_road 4
+    2300124: part2_road 5
+    2300126: part2_road 6
+    2300128: part2_road 7
+    2300130: part2_road 8
+    2300132: part2_road 9
+    2300134: part2_rolex
+    2300136: part2_rolex_
+    2300138: part2_rolex_1
+    2300140: part2_shop
+    2300142: part2_shop 1
+    2300144: part2_shop 2
+    2300146: part2_shop 3
+    2300148: part2_UrbanAtlas1
+    2300150: part2_UrbanAtlas1 1
+    2300152: part2_UrbanAtlas1 2
+    2300154: part2_UrbanAtlas1 3
+    2300156: part2_UrbanAtlas1 4
+    2300158: part2_UrbanAtlas1 5
+    2300160: polySurface843
+    2300162: Add
+    2300164: Road2
+    3300000: _B022
+    3300002: B192
+    3300004: part2_apple
+    3300006: part2_apple1
+    3300008: part2_apple2
+    3300010: part2_apple3
+    3300012: part2_apple4
+    3300014: part2_apple5
+    3300016: part2_apple_
+    3300018: part2_AUDI
+    3300020: part2_AUDI1
+    3300022: part2_AUDI2
+    3300024: part2_AUDI3
+    3300026: part2_AUDI_
+    3300028: part2_AUDI_1
+    3300030: part2_AUDI_2
+    3300032: part2_blue
+    3300034: part2_blue1
+    3300036: part2_blue_ASC032shade
+    3300038: part2_blue_ASC032shade 1
+    3300040: part2_Building1
+    3300042: part2_Building1 1
+    3300044: part2_Building1 2
+    3300046: part2_Building2
+    3300048: part2_building2
+    3300050: part2_Building2 1
+    3300052: part2_Building2 10
+    3300054: part2_Building2 11
+    3300056: part2_Building2 2
+    3300058: part2_Building2 3
+    3300060: part2_Building2 4
+    3300062: part2_Building2 5
+    3300064: part2_Building2 6
+    3300066: part2_Building2 7
+    3300068: part2_Building2 8
+    3300070: part2_Building2 9
+    3300072: part2_costco
+    3300074: part2_costco1
+    3300076: part2_costco_
+    3300078: part2_costco_1
+    3300080: part2_diar
+    3300082: part2_diar1
+    3300084: part2_gap
+    3300086: part2_gap1
+    3300088: part2_gap2
+    3300090: part2_gap3
+    3300092: part2_gap4
+    3300094: part2_gap5
+    3300096: part2_gap6
+    3300098: part2_gap7
+    3300100: part2_gap8
+    3300102: part2_GlassBuilding1
+    3300104: part2_GlassBuilding1 1
+    3300106: part2_GlassBuilding1 2
+    3300108: part2_porsche
+    3300110: part2_porsche_
+    3300112: part2_porsche_ 1
+    3300114: part2_road
+    3300116: part2_road 1
+    3300118: part2_road 2
+    3300120: part2_road 3
+    3300122: part2_road 4
+    3300124: part2_road 5
+    3300126: part2_road 6
+    3300128: part2_road 7
+    3300130: part2_road 8
+    3300132: part2_road 9
+    3300134: part2_rolex
+    3300136: part2_rolex_
+    3300138: part2_rolex_1
+    3300140: part2_shop
+    3300142: part2_shop 1
+    3300144: part2_shop 2
+    3300146: part2_shop 3
+    3300148: part2_UrbanAtlas1
+    3300150: part2_UrbanAtlas1 1
+    3300152: part2_UrbanAtlas1 2
+    3300154: part2_UrbanAtlas1 3
+    3300156: part2_UrbanAtlas1 4
+    3300158: part2_UrbanAtlas1 5
+    3300160: polySurface843
+    3300162: Add
+    3300164: Road2
+    4300000: part2_road
+    4300002: part2_road
+    4300004: part2_road
+    4300006: part2_road
+    4300008: part2_road
+    4300010: part2_gap
+    4300012: part2_gap1
+    4300014: part2_gap2
+    4300016: part2_apple4
+    4300018: part2_apple5
+    4300020: part2_apple_
+    4300022: part2_gap3
+    4300024: part2_diar
+    4300026: part2_diar1
+    4300028: part2_gap4
+    4300030: part2_gap5
+    4300032: part2_gap6
+    4300034: part2_gap7
+    4300036: part2_gap8
+    4300038: part2_porsche
+    4300040: part2_porsche_
+    4300042: part2_porsche_
+    4300044: part2_blue_ASC032shade
+    4300046: part2_Building2
+    4300048: part2_Building2
+    4300050: part2_Building2
+    4300052: part2_Building2
+    4300054: part2_building2
+    4300056: part2_Building2
+    4300058: part2_Building2
+    4300060: part2_Building2
+    4300062: part2_Building2
+    4300064: part2_Building2
+    4300066: part2_blue_ASC032shade
+    4300068: part2_Building2
+    4300070: part2_Building2
+    4300072: B192
+    4300074: part2_Building2
+    4300076: part2_GlassBuilding1
+    4300078: part2_GlassBuilding1
+    4300080: part2_road
+    4300082: part2_road
+    4300084: part2_road
+    4300086: part2_road
+    4300088: part2_road
+    4300090: part2_AUDI
+    4300092: part2_UrbanAtlas1
+    4300094: part2_UrbanAtlas1
+    4300096: part2_UrbanAtlas1
+    4300098: part2_UrbanAtlas1
+    4300100: part2_apple
+    4300102: part2_apple1
+    4300104: part2_apple2
+    4300106: part2_apple3
+    4300108: part2_rolex_
+    4300110: part2_rolex_1
+    4300112: part2_rolex
+    4300114: part2_costco
+    4300116: part2_costco_
+    4300118: part2_costco1
+    4300120: part2_costco_1
+    4300122: part2_AUDI1
+    4300124: part2_AUDI_
+    4300126: part2_AUDI2
+    4300128: part2_AUDI_1
+    4300130: part2_AUDI_2
+    4300132: part2_AUDI3
+    4300134: part2_shop
+    4300136: part2_shop
+    4300138: part2_Building1
+    4300140: part2_shop
+    4300142: part2_UrbanAtlas1
+    4300144: part2_UrbanAtlas1
+    4300146: part2_blue
+    4300148: part2_blue1
+    4300150: _B022
+    4300152: part2_Building1
+    4300154: part2_GlassBuilding1
+    4300156: part2_Building1
+    4300158: part2_shop
+    4300160: polySurface843
+    4300162: Add
+    4300164: Road2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

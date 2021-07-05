@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: b36f1280f564d4340a4ad06582474e92
+timeCreated: 1522521645
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: part3_apple
+    100004: part3_apple1
+    100006: part3_apple2
+    100008: part3_apple3
+    100010: part3_apple4
+    100012: part3_apple_
+    100014: part3_blue_ASC032shade
+    100016: part3_Building1
+    100018: part3_Building2
+    100020: part3_Building2 1
+    100022: part3_Building2 2
+    100024: part3_Building2 3
+    100026: part3_Building2 4
+    100028: part3_Building2 5
+    100030: part3_costco
+    100032: part3_costco1
+    100034: part3_costco2
+    100036: part3_costco3
+    100038: part3_costco4
+    100040: part3_diar
+    100042: part3_diar1
+    100044: part3_diar2
+    100046: part3_diar3
+    100048: part3_diar4
+    100050: part3_diar5
+    100052: part3_diar_
+    100054: part3_dunkin
+    100056: part3_dunkin1
+    100058: part3_dunkin2
+    100060: part3_dunkin3
+    100062: part3_gap
+    100064: part3_gap1
+    100066: part3_gap_
+    100068: part3_GlassBuilding1
+    100070: part3_GlassBuilding1 1
+    100072: part3_GlassBuilding1 2
+    100074: part3_GlassBuilding1 3
+    100076: part3_red
+    100078: part3_road
+    100080: part3_road 1
+    100082: part3_road 10
+    100084: part3_road 2
+    100086: part3_road 3
+    100088: part3_road 4
+    100090: part3_road 5
+    100092: part3_road 6
+    100094: part3_road 7
+    100096: part3_road 8
+    100098: part3_road 9
+    100100: part3_rolex
+    100102: part3_rolex1
+    100104: part3_rolex2
+    100106: part3_rolex3
+    100108: part3_rolex4
+    100110: part3_rolex_
+    100112: part3_shop
+    100114: part3_shop 1
+    100116: part3_shop 2
+    100118: part3_UrbanAtlas002
+    100120: part3_UrbanAtlas1
+    100122: part3_UrbanAtlas1 1
+    100124: part3_UrbanAtlas1 2
+    100126: part3_UrbanAtlas1 3
+    100128: part3_UrbanAtlas1 4
+    100130: polySurface695
+    100132: polySurface742
+    100134: polySurface743
+    100136: polySurface821
+    100138: polySurface822
+    100140: polySurface834
+    100142: polySurface835
+    100144: Add
+    400000: //RootNode
+    400002: part3_apple
+    400004: part3_apple1
+    400006: part3_apple2
+    400008: part3_apple3
+    400010: part3_apple4
+    400012: part3_apple_
+    400014: part3_blue_ASC032shade
+    400016: part3_Building1
+    400018: part3_Building2
+    400020: part3_Building2 1
+    400022: part3_Building2 2
+    400024: part3_Building2 3
+    400026: part3_Building2 4
+    400028: part3_Building2 5
+    400030: part3_costco
+    400032: part3_costco1
+    400034: part3_costco2
+    400036: part3_costco3
+    400038: part3_costco4
+    400040: part3_diar
+    400042: part3_diar1
+    400044: part3_diar2
+    400046: part3_diar3
+    400048: part3_diar4
+    400050: part3_diar5
+    400052: part3_diar_
+    400054: part3_dunkin
+    400056: part3_dunkin1
+    400058: part3_dunkin2
+    400060: part3_dunkin3
+    400062: part3_gap
+    400064: part3_gap1
+    400066: part3_gap_
+    400068: part3_GlassBuilding1
+    400070: part3_GlassBuilding1 1
+    400072: part3_GlassBuilding1 2
+    400074: part3_GlassBuilding1 3
+    400076: part3_red
+    400078: part3_road
+    400080: part3_road 1
+    400082: part3_road 10
+    400084: part3_road 2
+    400086: part3_road 3
+    400088: part3_road 4
+    400090: part3_road 5
+    400092: part3_road 6
+    400094: part3_road 7
+    400096: part3_road 8
+    400098: part3_road 9
+    400100: part3_rolex
+    400102: part3_rolex1
+    400104: part3_rolex2
+    400106: part3_rolex3
+    400108: part3_rolex4
+    400110: part3_rolex_
+    400112: part3_shop
+    400114: part3_shop 1
+    400116: part3_shop 2
+    400118: part3_UrbanAtlas002
+    400120: part3_UrbanAtlas1
+    400122: part3_UrbanAtlas1 1
+    400124: part3_UrbanAtlas1 2
+    400126: part3_UrbanAtlas1 3
+    400128: part3_UrbanAtlas1 4
+    400130: polySurface695
+    400132: polySurface742
+    400134: polySurface743
+    400136: polySurface821
+    400138: polySurface822
+    400140: polySurface834
+    400142: polySurface835
+    400144: Add
+    2300000: part3_apple
+    2300002: part3_apple1
+    2300004: part3_apple2
+    2300006: part3_apple3
+    2300008: part3_apple4
+    2300010: part3_apple_
+    2300012: part3_blue_ASC032shade
+    2300014: part3_Building1
+    2300016: part3_Building2
+    2300018: part3_Building2 1
+    2300020: part3_Building2 2
+    2300022: part3_Building2 3
+    2300024: part3_Building2 4
+    2300026: part3_Building2 5
+    2300028: part3_costco
+    2300030: part3_costco1
+    2300032: part3_costco2
+    2300034: part3_costco3
+    2300036: part3_costco4
+    2300038: part3_diar
+    2300040: part3_diar1
+    2300042: part3_diar2
+    2300044: part3_diar3
+    2300046: part3_diar4
+    2300048: part3_diar5
+    2300050: part3_diar_
+    2300052: part3_dunkin
+    2300054: part3_dunkin1
+    2300056: part3_dunkin2
+    2300058: part3_dunkin3
+    2300060: part3_gap
+    2300062: part3_gap1
+    2300064: part3_gap_
+    2300066: part3_GlassBuilding1
+    2300068: part3_GlassBuilding1 1
+    2300070: part3_GlassBuilding1 2
+    2300072: part3_GlassBuilding1 3
+    2300074: part3_red
+    2300076: part3_road
+    2300078: part3_road 1
+    2300080: part3_road 10
+    2300082: part3_road 2
+    2300084: part3_road 3
+    2300086: part3_road 4
+    2300088: part3_road 5
+    2300090: part3_road 6
+    2300092: part3_road 7
+    2300094: part3_road 8
+    2300096: part3_road 9
+    2300098: part3_rolex
+    2300100: part3_rolex1
+    2300102: part3_rolex2
+    2300104: part3_rolex3
+    2300106: part3_rolex4
+    2300108: part3_rolex_
+    2300110: part3_shop
+    2300112: part3_shop 1
+    2300114: part3_shop 2
+    2300116: part3_UrbanAtlas002
+    2300118: part3_UrbanAtlas1
+    2300120: part3_UrbanAtlas1 1
+    2300122: part3_UrbanAtlas1 2
+    2300124: part3_UrbanAtlas1 3
+    2300126: part3_UrbanAtlas1 4
+    2300128: polySurface695
+    2300130: polySurface742
+    2300132: polySurface743
+    2300134: polySurface821
+    2300136: polySurface822
+    2300138: polySurface834
+    2300140: polySurface835
+    2300142: Add
+    3300000: part3_apple
+    3300002: part3_apple1
+    3300004: part3_apple2
+    3300006: part3_apple3
+    3300008: part3_apple4
+    3300010: part3_apple_
+    3300012: part3_blue_ASC032shade
+    3300014: part3_Building1
+    3300016: part3_Building2
+    3300018: part3_Building2 1
+    3300020: part3_Building2 2
+    3300022: part3_Building2 3
+    3300024: part3_Building2 4
+    3300026: part3_Building2 5
+    3300028: part3_costco
+    3300030: part3_costco1
+    3300032: part3_costco2
+    3300034: part3_costco3
+    3300036: part3_costco4
+    3300038: part3_diar
+    3300040: part3_diar1
+    3300042: part3_diar2
+    3300044: part3_diar3
+    3300046: part3_diar4
+    3300048: part3_diar5
+    3300050: part3_diar_
+    3300052: part3_dunkin
+    3300054: part3_dunkin1
+    3300056: part3_dunkin2
+    3300058: part3_dunkin3
+    3300060: part3_gap
+    3300062: part3_gap1
+    3300064: part3_gap_
+    3300066: part3_GlassBuilding1
+    3300068: part3_GlassBuilding1 1
+    3300070: part3_GlassBuilding1 2
+    3300072: part3_GlassBuilding1 3
+    3300074: part3_red
+    3300076: part3_road
+    3300078: part3_road 1
+    3300080: part3_road 10
+    3300082: part3_road 2
+    3300084: part3_road 3
+    3300086: part3_road 4
+    3300088: part3_road 5
+    3300090: part3_road 6
+    3300092: part3_road 7
+    3300094: part3_road 8
+    3300096: part3_road 9
+    3300098: part3_rolex
+    3300100: part3_rolex1
+    3300102: part3_rolex2
+    3300104: part3_rolex3
+    3300106: part3_rolex4
+    3300108: part3_rolex_
+    3300110: part3_shop
+    3300112: part3_shop 1
+    3300114: part3_shop 2
+    3300116: part3_UrbanAtlas002
+    3300118: part3_UrbanAtlas1
+    3300120: part3_UrbanAtlas1 1
+    3300122: part3_UrbanAtlas1 2
+    3300124: part3_UrbanAtlas1 3
+    3300126: part3_UrbanAtlas1 4
+    3300128: polySurface695
+    3300130: polySurface742
+    3300132: polySurface743
+    3300134: polySurface821
+    3300136: polySurface822
+    3300138: polySurface834
+    3300140: polySurface835
+    3300142: Add
+    4300000: part3_GlassBuilding1
+    4300002: part3_costco
+    4300004: part3_Building2
+    4300006: part3_costco1
+    4300008: part3_costco2
+    4300010: part3_UrbanAtlas1
+    4300012: part3_road
+    4300014: part3_road
+    4300016: part3_road
+    4300018: part3_blue_ASC032shade
+    4300020: part3_Building2
+    4300022: part3_dunkin
+    4300024: part3_dunkin1
+    4300026: part3_dunkin2
+    4300028: part3_Building2
+    4300030: part3_Building2
+    4300032: part3_GlassBuilding1
+    4300034: part3_apple
+    4300036: part3_GlassBuilding1
+    4300038: part3_GlassBuilding1
+    4300040: part3_gap
+    4300042: part3_gap1
+    4300044: part3_apple1
+    4300046: part3_apple2
+    4300048: part3_gap_
+    4300050: part3_apple_
+    4300052: part3_UrbanAtlas1
+    4300054: part3_UrbanAtlas1
+    4300056: part3_road
+    4300058: part3_road
+    4300060: part3_rolex
+    4300062: part3_Building2
+    4300064: part3_rolex1
+    4300066: part3_rolex_
+    4300068: part3_rolex2
+    4300070: part3_rolex3
+    4300072: part3_diar
+    4300074: part3_rolex4
+    4300076: part3_road
+    4300078: part3_Building2
+    4300080: part3_UrbanAtlas1
+    4300082: part3_diar1
+    4300084: part3_diar2
+    4300086: part3_UrbanAtlas1
+    4300088: part3_diar_
+    4300090: part3_diar3
+    4300092: part3_diar4
+    4300094: part3_shop
+    4300096: part3_costco3
+    4300098: part3_shop
+    4300100: part3_road
+    4300102: part3_road
+    4300104: part3_road
+    4300106: part3_road
+    4300108: part3_costco4
+    4300110: part3_dunkin3
+    4300112: part3_shop
+    4300114: part3_Building1
+    4300116: part3_diar5
+    4300118: part3_road
+    4300120: part3_apple3
+    4300122: part3_apple4
+    4300124: part3_UrbanAtlas002
+    4300126: part3_red
+    4300128: polySurface695
+    4300130: polySurface821
+    4300132: polySurface742
+    4300134: polySurface743
+    4300136: polySurface822
+    4300138: polySurface835
+    4300140: polySurface834
+    4300142: Add
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

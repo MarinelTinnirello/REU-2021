@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: fe3bf77152211c2469a6267b770c6aca
+timeCreated: 1522521647
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _B028
+    100002: _polySurface582
+    100004: Building2
+    100006: Building2 1
+    100008: dominos
+    100010: dominos 1
+    100012: dominos1
+    100014: //RootNode
+    100016: part1_apple
+    100018: part1_apple1
+    100020: part1_apple2
+    100022: part1_apple3
+    100024: part1_building1
+    100026: part1_building1 1
+    100028: part1_building1 2
+    100030: part1_building1 3
+    100032: part1_diar
+    100034: part1_diar1
+    100036: part1_diar2
+    100038: part1_diar3
+    100040: part1_diar4
+    100042: part1_dunkin
+    100044: part1_dunkin1
+    100046: part1_dunkin2
+    100048: part1_dunkin3
+    100050: part1_dunkin4
+    100052: part1_dunkin5
+    100054: part1_dunkin6
+    100056: part1_dunkin7
+    100058: part1_dunkin_
+    100060: part1_dunkin_1
+    100062: part1_gap
+    100064: part1_gap_
+    100066: part1_gap_1
+    100068: part1_glass_building00
+    100070: part1_glass_building01
+    100072: part1_glass_building02
+    100074: part1_glass_building04
+    100076: part1_porsche
+    100078: part1_porsche_
+    100080: part1_porsche_ 1
+    100082: part1_porsche_ 2
+    100084: part1_porsche_ 3
+    100086: part1_road
+    100088: part1_shade
+    100090: part1_shade 1
+    100092: part1_shade 10
+    100094: part1_shade 11
+    100096: part1_shade 12
+    100098: part1_shade 2
+    100100: part1_shade 3
+    100102: part1_shade 4
+    100104: part1_shade 5
+    100106: part1_shade 6
+    100108: part1_shade 7
+    100110: part1_shade 8
+    100112: part1_shade 9
+    100114: part1_small_light
+    100116: part1_small_light 1
+    100118: part1_small_light 2
+    100120: polySurface842
+    100122: road_p1_1
+    100124: road_p1_2
+    100126: road_p1_3
+    100128: road_p1_4
+    100130: road_p1_5
+    100132: rolex
+    100134: rolex1
+    100136: rolex2
+    100138: Add
+    100140: Road1
+    400000: _B028
+    400002: _polySurface582
+    400004: Building2
+    400006: Building2 1
+    400008: dominos
+    400010: dominos 1
+    400012: dominos1
+    400014: //RootNode
+    400016: part1_apple
+    400018: part1_apple1
+    400020: part1_apple2
+    400022: part1_apple3
+    400024: part1_building1
+    400026: part1_building1 1
+    400028: part1_building1 2
+    400030: part1_building1 3
+    400032: part1_diar
+    400034: part1_diar1
+    400036: part1_diar2
+    400038: part1_diar3
+    400040: part1_diar4
+    400042: part1_dunkin
+    400044: part1_dunkin1
+    400046: part1_dunkin2
+    400048: part1_dunkin3
+    400050: part1_dunkin4
+    400052: part1_dunkin5
+    400054: part1_dunkin6
+    400056: part1_dunkin7
+    400058: part1_dunkin_
+    400060: part1_dunkin_1
+    400062: part1_gap
+    400064: part1_gap_
+    400066: part1_gap_1
+    400068: part1_glass_building00
+    400070: part1_glass_building01
+    400072: part1_glass_building02
+    400074: part1_glass_building04
+    400076: part1_porsche
+    400078: part1_porsche_
+    400080: part1_porsche_ 1
+    400082: part1_porsche_ 2
+    400084: part1_porsche_ 3
+    400086: part1_road
+    400088: part1_shade
+    400090: part1_shade 1
+    400092: part1_shade 10
+    400094: part1_shade 11
+    400096: part1_shade 12
+    400098: part1_shade 2
+    400100: part1_shade 3
+    400102: part1_shade 4
+    400104: part1_shade 5
+    400106: part1_shade 6
+    400108: part1_shade 7
+    400110: part1_shade 8
+    400112: part1_shade 9
+    400114: part1_small_light
+    400116: part1_small_light 1
+    400118: part1_small_light 2
+    400120: polySurface842
+    400122: road_p1_1
+    400124: road_p1_2
+    400126: road_p1_3
+    400128: road_p1_4
+    400130: road_p1_5
+    400132: rolex
+    400134: rolex1
+    400136: rolex2
+    400138: Add
+    400140: Road1
+    2300000: _B028
+    2300002: _polySurface582
+    2300004: Building2
+    2300006: Building2 1
+    2300008: dominos
+    2300010: dominos 1
+    2300012: dominos1
+    2300014: part1_apple
+    2300016: part1_apple1
+    2300018: part1_apple2
+    2300020: part1_apple3
+    2300022: part1_building1
+    2300024: part1_building1 1
+    2300026: part1_building1 2
+    2300028: part1_building1 3
+    2300030: part1_diar
+    2300032: part1_diar1
+    2300034: part1_diar2
+    2300036: part1_diar3
+    2300038: part1_diar4
+    2300040: part1_dunkin
+    2300042: part1_dunkin1
+    2300044: part1_dunkin2
+    2300046: part1_dunkin3
+    2300048: part1_dunkin4
+    2300050: part1_dunkin5
+    2300052: part1_dunkin6
+    2300054: part1_dunkin7
+    2300056: part1_dunkin_
+    2300058: part1_dunkin_1
+    2300060: part1_gap
+    2300062: part1_gap_
+    2300064: part1_gap_1
+    2300066: part1_glass_building00
+    2300068: part1_glass_building01
+    2300070: part1_glass_building02
+    2300072: part1_glass_building04
+    2300074: part1_porsche
+    2300076: part1_porsche_
+    2300078: part1_porsche_ 1
+    2300080: part1_porsche_ 2
+    2300082: part1_porsche_ 3
+    2300084: part1_road
+    2300086: part1_shade
+    2300088: part1_shade 1
+    2300090: part1_shade 10
+    2300092: part1_shade 11
+    2300094: part1_shade 12
+    2300096: part1_shade 2
+    2300098: part1_shade 3
+    2300100: part1_shade 4
+    2300102: part1_shade 5
+    2300104: part1_shade 6
+    2300106: part1_shade 7
+    2300108: part1_shade 8
+    2300110: part1_shade 9
+    2300112: part1_small_light
+    2300114: part1_small_light 1
+    2300116: part1_small_light 2
+    2300118: polySurface842
+    2300120: road_p1_1
+    2300122: road_p1_2
+    2300124: road_p1_3
+    2300126: road_p1_4
+    2300128: road_p1_5
+    2300130: rolex
+    2300132: rolex1
+    2300134: rolex2
+    2300136: Add
+    2300138: Road1
+    3300000: _B028
+    3300002: _polySurface582
+    3300004: Building2
+    3300006: Building2 1
+    3300008: dominos
+    3300010: dominos 1
+    3300012: dominos1
+    3300014: part1_apple
+    3300016: part1_apple1
+    3300018: part1_apple2
+    3300020: part1_apple3
+    3300022: part1_building1
+    3300024: part1_building1 1
+    3300026: part1_building1 2
+    3300028: part1_building1 3
+    3300030: part1_diar
+    3300032: part1_diar1
+    3300034: part1_diar2
+    3300036: part1_diar3
+    3300038: part1_diar4
+    3300040: part1_dunkin
+    3300042: part1_dunkin1
+    3300044: part1_dunkin2
+    3300046: part1_dunkin3
+    3300048: part1_dunkin4
+    3300050: part1_dunkin5
+    3300052: part1_dunkin6
+    3300054: part1_dunkin7
+    3300056: part1_dunkin_
+    3300058: part1_dunkin_1
+    3300060: part1_gap
+    3300062: part1_gap_
+    3300064: part1_gap_1
+    3300066: part1_glass_building00
+    3300068: part1_glass_building01
+    3300070: part1_glass_building02
+    3300072: part1_glass_building04
+    3300074: part1_porsche
+    3300076: part1_porsche_
+    3300078: part1_porsche_ 1
+    3300080: part1_porsche_ 2
+    3300082: part1_porsche_ 3
+    3300084: part1_road
+    3300086: part1_shade
+    3300088: part1_shade 1
+    3300090: part1_shade 10
+    3300092: part1_shade 11
+    3300094: part1_shade 12
+    3300096: part1_shade 2
+    3300098: part1_shade 3
+    3300100: part1_shade 4
+    3300102: part1_shade 5
+    3300104: part1_shade 6
+    3300106: part1_shade 7
+    3300108: part1_shade 8
+    3300110: part1_shade 9
+    3300112: part1_small_light
+    3300114: part1_small_light 1
+    3300116: part1_small_light 2
+    3300118: polySurface842
+    3300120: road_p1_1
+    3300122: road_p1_2
+    3300124: road_p1_3
+    3300126: road_p1_4
+    3300128: road_p1_5
+    3300130: rolex
+    3300132: rolex1
+    3300134: rolex2
+    3300136: Add
+    3300138: Road1
+    4300000: road_p1_5
+    4300002: road_p1_4
+    4300004: road_p1_3
+    4300006: road_p1_2
+    4300008: road_p1_1
+    4300010: part1_diar
+    4300012: part1_diar1
+    4300014: part1_apple
+    4300016: part1_apple1
+    4300018: part1_apple2
+    4300020: part1_dunkin
+    4300022: part1_dunkin1
+    4300024: part1_dunkin2
+    4300026: part1_dunkin3
+    4300028: rolex
+    4300030: rolex1
+    4300032: Building2
+    4300034: Building2
+    4300036: part1_glass_building01
+    4300038: part1_glass_building02
+    4300040: part1_glass_building04
+    4300042: part1_building1
+    4300044: part1_building1
+    4300046: part1_glass_building00
+    4300048: part1_road
+    4300050: part1_porsche
+    4300052: part1_diar2
+    4300054: dominos
+    4300056: part1_dunkin4
+    4300058: part1_dunkin5
+    4300060: rolex2
+    4300062: part1_apple3
+    4300064: part1_gap
+    4300066: part1_dunkin6
+    4300068: part1_shade
+    4300070: part1_shade
+    4300072: part1_shade
+    4300074: part1_shade
+    4300076: part1_shade
+    4300078: part1_shade
+    4300080: part1_shade
+    4300082: part1_shade
+    4300084: part1_shade
+    4300086: part1_shade
+    4300088: part1_shade
+    4300090: part1_shade
+    4300092: part1_shade
+    4300094: part1_small_light
+    4300096: part1_small_light
+    4300098: part1_small_light
+    4300100: part1_porsche_
+    4300102: part1_porsche_
+    4300104: part1_porsche_
+    4300106: part1_porsche_
+    4300108: part1_diar3
+    4300110: dominos1
+    4300112: part1_diar4
+    4300114: dominos
+    4300116: part1_dunkin7
+    4300118: part1_dunkin_
+    4300120: part1_dunkin_1
+    4300122: part1_gap_
+    4300124: part1_gap_1
+    4300126: part1_building1
+    4300128: part1_building1
+    4300130: _polySurface582
+    4300132: _B028
+    4300134: polySurface842
+    4300136: Road1
+    4300138: Add
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
